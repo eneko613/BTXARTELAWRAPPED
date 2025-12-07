@@ -1,0 +1,5 @@
+{
+  "name": "Barik Wrapped",
+  "description": "Generates a Spotify Wrapped-style summary of your Barik transport card usage from PDF statements.",
+  "requestFramePermissions": []
+}
